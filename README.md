@@ -16,7 +16,7 @@ Como morador, quero receber notificações sobre picos de consumo de eletrodomé
 
 # Protótipos
 
-![prototipos] (doc/PCS3553_laboratorio_engenharia_software_II/prototipos.jpg)
+![prototipos](doc/PCS3553_laboratorio_engenharia_software_II/prototipos.jpg)
 
 # Requisitos Funcionais e Não Funcionais
 RF001 | Informar histórico de consumo de energia por eletrodoméstico por meio de interface gráfica
@@ -44,4 +44,4 @@ NF003 | Tempo de resposta para notificação de pico de consumo
 **Complemento** | Garantir tempo de resposta em situações críticas de congestionamento ou falha de equipamento por meio de alocação de rede dedicada e redundâncias na topologia.
 
 # Solução Técnica
-![diagrama] (doc/PCS3553_laboratorio_engenharia_software_II/diagrama.jpg)
+![diagrama](doc/PCS3553_laboratorio_engenharia_software_II/diagrama.jpg)
