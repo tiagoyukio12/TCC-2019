@@ -2,6 +2,11 @@
 Trabalho de conclusão de curso de Engenharia Elétrica - Ênfase em Computação da Escola Politécnica da Universidade de São Paulo
 
 # User Stories
+O perfil de usuário será estudado em mais detalhe a partir de entrevistas e questionários realizados na disciplina PC3573 - Interação Humano-Computador.
+
+[Questionário](https://docs.google.com/forms/d/e/1FAIpQLSfyrXTJedKPBy6NqAOHyjfxiP8AmgNV_f49gKbso5usTrKHXw/viewform)
+
+Termos de Consentimento Livre e Esclarecido (TCLE) disponíveis em `./docs/PCS3573_interacao_humano-computador`.
 ## Epic
 Como morador, quero monitorar o consumo de energia de minha residência para reduzir gastos e utilizar a energia mais conscientemente e de forma ecológica.
 
