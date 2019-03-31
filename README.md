@@ -7,6 +7,9 @@ O perfil de usuário será estudado em mais detalhe a partir de entrevistas e qu
 [Questionário](https://docs.google.com/forms/d/e/1FAIpQLSfyrXTJedKPBy6NqAOHyjfxiP8AmgNV_f49gKbso5usTrKHXw/viewform)
 
 Termos de Consentimento Livre e Esclarecido (TCLE) disponíveis em `./docs/PCS3573_interacao_humano-computador`.
+
+![osterwalder](doc/PCS3553_laboratorio_engenharia_software_II/osterwalder.jpg)
+
 ## Epic
 Como morador, quero monitorar o consumo de energia de minha residência para reduzir gastos e utilizar a energia mais conscientemente e de forma ecológica.
 
