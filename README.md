@@ -23,7 +23,6 @@ Como morador, quero ter acesso a dados de consumo por eletrodoméstico por meio 
 Como morador, quero receber notificações sobre picos de consumo de eletrodomésticos, para tomar medidas adequadas, como reparar ou desligar o produto.
 
 # Protótipos
-
 ![prototipos](doc/PCS3553_laboratorio_engenharia_software_II/prototipos.jpg)
 
 # Requisitos Funcionais e Não Funcionais
@@ -53,3 +52,10 @@ NF003 | Tempo de resposta para notificação de pico de consumo
 
 # Solução Técnica
 ![diagrama](doc/PCS3553_laboratorio_engenharia_software_II/diagrama.jpg)
+
+# Referências
+[1] CHEW, I. et al. Smart lighting: The way forward? Reviewing the past to shape the future. *Elsevier Energy and Buildings*, v. 149, p. 180-191, Agosto de 2017.
+
+[2] ENGEL, D.; EIBL, G. Wavelet-Based Multiresolution Smart Meter Privacy. *IEE Transactions on Smart Grid*, v. 8, p. 1710-1721, Julho de 2017.
+
+[3] KOLTER, J.; JOHNSON, M. J. REDD: A public data set for energy disaggregation research. *SustkDD Workshop Data Mining Appl. Sustain*, p. 1–6, Agosto de 2011.
