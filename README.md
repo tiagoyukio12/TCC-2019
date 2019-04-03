@@ -48,7 +48,7 @@ NF002 | Armazenar dados de consumo em plataforma não-volátil
 
 NF003 | Tempo de resposta para notificação de pico de consumo
 --- | ---
-**Complemento** | Garantir tempo de resposta em situações críticas de congestionamento ou falha de equipamento por meio de alocação de rede dedicada e redundâncias na topologia.
+**Complemento** | Garantir tempo de resposta <5s em situações críticas de congestionamento ou falha de equipamento por meio de alocação de rede dedicada e redundâncias na topologia.
 
 NF004 | Garantir envio de notificação de pico de consumo durante indisponibilidade da rede local
 --- | ---
