@@ -50,6 +50,10 @@ NF003 | Tempo de resposta para notificação de pico de consumo
 --- | ---
 **Complemento** | Garantir tempo de resposta em situações críticas de congestionamento ou falha de equipamento por meio de alocação de rede dedicada e redundâncias na topologia.
 
+NF004 | Garantir envio de notificação de pico de consumo durante indisponibilidade da rede local
+--- | ---
+**Complemento** | Garantir que o morador tenha conhecimento do pico de consumo por meio de aviso sonoro ou visual no próprio módulo de IoT.
+
 # Solução Técnica
 ![diagrama](doc/PCS3553_laboratorio_engenharia_software_II/diagrama.jpg)
 
