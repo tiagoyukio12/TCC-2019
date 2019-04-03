@@ -57,6 +57,10 @@ NF004 | Garantir envio de notificação de pico de consumo durante indisponibili
 # Solução Técnica
 ![diagrama](doc/PCS3553_laboratorio_engenharia_software_II/diagrama.jpg)
 
+# Diagramas de Sequência
+## Notificação de Pico de Consumo
+![notificação](doc/PCS3553_laboratorio_engenharia_software_II/sd_notificacao.jpg)
+
 # Referências
 [1] CHEW, I. et al. Smart lighting: The way forward? Reviewing the past to shape the future. *Elsevier Energy and Buildings*, v. 149, p. 180-191, Agosto de 2017.
 
