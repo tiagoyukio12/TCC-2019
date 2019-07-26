@@ -1,7 +1,7 @@
 import operator
 import numpy as np
 import pandas as pd
-import load_house
+from app.TCC2019 import load_house
 
 
 channels, labels = load_house.SMART('2016')
